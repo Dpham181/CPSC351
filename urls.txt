@@ -1,0 +1,6 @@
+http://ftp.gnu.org/gnu/wget/wget-1.5.3.tar.gz
+https://www.gnu.org/s/bash/manual/bash.pdf
+http://delaunay.ecs.fullerton.edu/~mshafae/srl/CSUF_Ubuntu_Mate_16_04_01_amd64_20170122.ova
+https://www.dropbox.com/s/9frc9x5blloo7a4/CSUF_Ubuntu_Mate_16_04_01_amd64_20170122.ova?dl=0
+
+
